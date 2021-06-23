@@ -1,0 +1,38 @@
+img {
+    height: 200px;
+}
+#container{
+    width:1000px;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: darkslategray;
+}
+.row1{
+    background-color: skyblue;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+    padding: 20px
+}
+.row2{
+    background-color: steelblue;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0px 20px;
+    padding: 20px;
+}
+
+.row3{
+    background-color: midnightblue;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+    padding: 20px;
+}
